@@ -18,8 +18,8 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/yassermassoud14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Yasser-Massoud" height="30" width="40" /></a>
-<a href="https://www.facebook.com/yasser.massoud.9022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="trax.nit001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yasser-massoud-8704291a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Yasser-Massoud" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yasser.massoud.9022" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Yasser Massoud" height="30" width="40" /></a>
 <a href="https://www.instagram.com/y_e_s_e_r/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Yasser-Massoud" height="30" width="40" /></a>
 <a href="https://medium.com/@yassermassoud000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Yasser-Massoud" height="30" width="40" /></a>
 </p>
